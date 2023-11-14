@@ -1,8 +1,8 @@
-# [Your Name]
+#Mikaeel Suffla
 
 ## Welcome to My GitHub Profile!
 
-Hello there! I'm [Your Full Name], a final year Computer Science student at the University of the Witwatersrand, with a passion for software development, AI, and integrating sophisticated APIs into my projects. I'm on the cusp of entering the professional world, where I aim to contribute to and drive forward the field of technology.
+Hello there! I'm Mikaeel Suffla, a final year Computer Science student at the University of the Witwatersrand, with a passion for software development, AI, and integrating sophisticated APIs into my projects. I'm on the cusp of entering the professional world, where I aim to contribute to and drive forward the field of technology.
 
 ### About Me
 
