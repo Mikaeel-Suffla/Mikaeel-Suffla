@@ -1,4 +1,4 @@
-##Mikaeel Suffla
+## Mikaeel Suffla
 
 ## Welcome to My GitHub Profile!
 
@@ -20,15 +20,7 @@ Hello there! I'm Mikaeel Suffla, a final year Computer Science student at the Un
 - 💡 **Interested In:** Artificial Intelligence, Software Development and Maintainence
 
 
-### Projects
 
-[Here](https://github.com/yourusername/repo-name), you can find my portfolio of projects, which showcases my journey through coding, learning, and exploring the vast realm of computer science.
-
-_For a more detailed look at my work, please visit the repositories listed below._
-
-- [Project Name 1](https://github.com/yourusername/project-name1): Short description of the project.
-- [Project Name 2](https://github.com/yourusername/project-name2): Short description of the project.
-- [Project Name 3](https://github.com/yourusername/project-name3): Short description of the project.
 
 ---
 
